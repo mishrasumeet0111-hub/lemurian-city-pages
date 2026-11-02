@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-fargo-nd#service",
+      "name": "Website design in Fargo, ND",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-fargo-nd",
+      "description": "Website designers for Fargo, North Dakota businesses. We design and build custom sites, brands and 3D animation remotely, on Central Time.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Fargo, North Dakota",
+          "sameAs": "https://www.wikidata.org/wiki/Q34109"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cass County, North Dakota"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Clay County, Minnesota"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Fargo businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in North Dakota",
+          "item": "https://www.lemurianstudios.com/services/web-design-north-dakota"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Fargo, ND",
+          "item": "https://www.lemurianstudios.com/services/website-design-fargo-nd"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you work with businesses in Moorhead?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Clay County, Minnesota is part of the Fargo metro, and we work with businesses there exactly as we do in Fargo."
+          }
+        }
+      ]
+    }
+  ]
+}

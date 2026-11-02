@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-anchorage-ak#service",
+      "name": "Website design in Anchorage, AK",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-anchorage-ak",
+      "description": "Need a website designer in Anchorage? Custom websites, branding and 3D animation for businesses across the Anchorage metro.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Anchorage, Alaska",
+          "sameAs": "https://www.wikidata.org/wiki/Q39450"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Anchorage Municipality, Alaska"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Matanuska-Susitna Borough, Alaska"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Anchorage businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Alaska",
+          "item": "https://www.lemurianstudios.com/services/web-design-alaska"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Anchorage, AK",
+          "item": "https://www.lemurianstudios.com/services/website-design-anchorage-ak"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you schedule calls in Alaska Time?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We book calls in your time zone, and most of the work happens in shared previews you can review whenever suits you."
+          }
+        }
+      ]
+    }
+  ]
+}

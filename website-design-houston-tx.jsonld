@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-houston-tx#service",
+      "name": "Website design in Houston, TX",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-houston-tx",
+      "description": "Website design in Houston, TX for businesses across the Houston metro: custom sites, brand identity and 3D animation from a remote studio.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Houston, Texas",
+          "sameAs": "https://www.wikidata.org/wiki/Q16555"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Harris County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Fort Bend County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Montgomery County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Brazoria County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Galveston County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Liberty County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Waller County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Chambers County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Austin County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "San Jacinto County, Texas"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Houston businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Texas",
+          "item": "https://www.lemurianstudios.com/services/web-design-texas"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Houston, TX",
+          "item": "https://www.lemurianstudios.com/services/website-design-houston-tx"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you help my Houston business show up for searches in Katy or The Woodlands?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We can build the pages and service-area wording that make your coverage clear. The local map results depend mostly on your Google Business Profile, reviews and distance, and we will tell you plainly what a website can and cannot change there."
+          }
+        }
+      ]
+    }
+  ]
+}

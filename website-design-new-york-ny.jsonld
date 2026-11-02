@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-new-york-ny#service",
+      "name": "Website design in New York City, NY",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-new-york-ny",
+      "description": "Need a website designer in New York City? Custom websites, branding and 3D animation for businesses across the New York metro.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "New York City, New York",
+          "sameAs": "https://www.wikidata.org/wiki/Q60"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kings County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Queens County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "New York County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Suffolk County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Nassau County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bronx County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Westchester County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bergen County, New Jersey"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Middlesex County, New Jersey"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Essex County, New Jersey"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for New York City businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in New York",
+          "item": "https://www.lemurianstudios.com/services/web-design-new-york"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "New York City, NY",
+          "item": "https://www.lemurianstudios.com/services/website-design-new-york-ny"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you work with businesses in New Jersey and on Long Island?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. The New Jersey counties in the metro, plus Nassau and Suffolk, work the same way for us as Manhattan: remote, on Eastern Time, with shared previews at every step."
+          }
+        }
+      ]
+    }
+  ]
+}

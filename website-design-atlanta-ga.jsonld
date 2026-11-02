@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-atlanta-ga#service",
+      "name": "Website design in Atlanta, GA",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-atlanta-ga",
+      "description": "Need a website designer in Atlanta? Custom websites, branding and 3D animation for businesses across the Atlanta metro.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Atlanta, Georgia",
+          "sameAs": "https://www.wikidata.org/wiki/Q23556"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Fulton County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Gwinnett County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cobb County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "DeKalb County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Clayton County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cherokee County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Forsyth County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Henry County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Paulding County, Georgia"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Coweta County, Georgia"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Atlanta businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Georgia",
+          "item": "https://www.lemurianstudios.com/services/web-design-georgia"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Atlanta, GA",
+          "item": "https://www.lemurianstudios.com/services/website-design-atlanta-ga"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you work with businesses outside the Perimeter?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We work remotely, so Cobb, Gwinnett, Cherokee or Henry County is no different from Midtown. The project runs the same way everywhere."
+          }
+        }
+      ]
+    }
+  ]
+}

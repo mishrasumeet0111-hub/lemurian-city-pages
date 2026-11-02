@@ -1,0 +1,128 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-austin-tx#service",
+      "name": "Website design in Austin, TX",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-austin-tx",
+      "description": "Website designers for Austin, Texas businesses. We design and build custom sites, brands and 3D animation remotely, on Central Time.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Austin, Texas",
+          "sameAs": "https://www.wikidata.org/wiki/Q16559"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Travis County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Williamson County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Hays County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bastrop County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Caldwell County, Texas"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Austin businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Texas",
+          "item": "https://www.lemurianstudios.com/services/web-design-texas"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Austin, TX",
+          "item": "https://www.lemurianstudios.com/services/website-design-austin-tx"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can my team edit the site after launch without a developer?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We build in Framer and hand over a site your team can edit: text, images, blog posts and new pages built from the sections we design."
+          }
+        }
+      ]
+    }
+  ]
+}

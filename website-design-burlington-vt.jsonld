@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-burlington-vt#service",
+      "name": "Website design in Burlington, VT",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-burlington-vt",
+      "description": "Website designers for Burlington, Vermont businesses. We design and build custom sites, brands and 3D animation remotely, on Eastern Time.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Burlington, Vermont",
+          "sameAs": "https://www.wikidata.org/wiki/Q31058"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Chittenden County, Vermont"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Franklin County, Vermont"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Grand Isle County, Vermont"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Burlington businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Vermont",
+          "item": "https://www.lemurianstudios.com/services/web-design-vermont"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Burlington, VT",
+          "item": "https://www.lemurianstudios.com/services/website-design-burlington-vt"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is a website worth it if most of my customers know me already?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. People check a business online even after a friend recommends it. A clear site makes that check quick and turns the recommendation into a booking or a call."
+          }
+        }
+      ]
+    }
+  ]
+}

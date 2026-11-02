@@ -1,0 +1,140 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-omaha-ne#service",
+      "name": "Website design in Omaha, NE",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-omaha-ne",
+      "description": "Website design in Omaha, NE for businesses across the Omaha metro: custom sites, brand identity and 3D animation from a remote studio.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Omaha, Nebraska",
+          "sameAs": "https://www.wikidata.org/wiki/Q43199"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Douglas County, Nebraska"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Sarpy County, Nebraska"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Pottawattamie County, Iowa"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cass County, Nebraska"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Saunders County, Nebraska"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Washington County, Nebraska"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Mills County, Iowa"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Harrison County, Iowa"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Omaha businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Nebraska",
+          "item": "https://www.lemurianstudios.com/services/web-design-nebraska"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Omaha, NE",
+          "item": "https://www.lemurianstudios.com/services/website-design-omaha-ne"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you work with businesses in Council Bluffs?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Pottawattamie County, Iowa is part of the metro, and we work with businesses there just as we do in Omaha."
+          }
+        }
+      ]
+    }
+  ]
+}

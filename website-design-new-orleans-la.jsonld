@@ -1,0 +1,136 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-new-orleans-la#service",
+      "name": "Website design in New Orleans, LA",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-new-orleans-la",
+      "description": "Website designers for New Orleans, Louisiana businesses. We design and build custom sites, brands and 3D animation remotely, on Central Time.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "New Orleans, Louisiana",
+          "sameAs": "https://www.wikidata.org/wiki/Q34404"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Jefferson Parish, Louisiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Orleans Parish, Louisiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "St. Charles Parish, Louisiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "St. Bernard Parish, Louisiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "St. John the Baptist Parish, Louisiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Plaquemines Parish, Louisiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "St. James Parish, Louisiana"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for New Orleans businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Louisiana",
+          "item": "https://www.lemurianstudios.com/services/web-design-louisiana"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "New Orleans, LA",
+          "item": "https://www.lemurianstudios.com/services/website-design-new-orleans-la"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Should my site say parish or county?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Parish. That is what Louisiana uses and what local customers expect, so we write Jefferson Parish or Orleans Parish, never county."
+          }
+        }
+      ]
+    }
+  ]
+}

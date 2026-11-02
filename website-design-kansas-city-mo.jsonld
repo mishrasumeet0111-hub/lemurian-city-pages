@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-kansas-city-mo#service",
+      "name": "Website design in Kansas City, MO",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-kansas-city-mo",
+      "description": "Website design in Kansas City, MO for businesses across the Kansas City metro: custom sites, brand identity and 3D animation from a remote studio.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Kansas City, Missouri",
+          "sameAs": "https://www.wikidata.org/wiki/Q41819"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Jackson County, Missouri"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Johnson County, Kansas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Clay County, Missouri"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Wyandotte County, Kansas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cass County, Missouri"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Platte County, Missouri"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Leavenworth County, Kansas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Miami County, Kansas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Lafayette County, Missouri"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Ray County, Missouri"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Kansas City businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Missouri",
+          "item": "https://www.lemurianstudios.com/services/web-design-missouri"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Kansas City, MO",
+          "item": "https://www.lemurianstudios.com/services/website-design-kansas-city-mo"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Should my site say Kansas City, Missouri, or just Kansas City?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Say which side you are on in your address and contact section, and use \"Kansas City\" in headlines. That avoids confusion without making the page awkward."
+          }
+        }
+      ]
+    }
+  ]
+}

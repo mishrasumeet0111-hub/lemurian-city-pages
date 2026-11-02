@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-louisville-ky#service",
+      "name": "Website design in Louisville, KY",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-louisville-ky",
+      "description": "Website design in Louisville, KY for businesses across the Louisville metro: custom sites, brand identity and 3D animation from a remote studio.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Louisville, Kentucky",
+          "sameAs": "https://www.wikidata.org/wiki/Q43668"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Jefferson County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Clark County, Indiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bullitt County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Floyd County, Indiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Oldham County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Shelby County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Nelson County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Harrison County, Indiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Meade County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Washington County, Indiana"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Louisville businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Kentucky",
+          "item": "https://www.lemurianstudios.com/services/web-design-kentucky"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Louisville, KY",
+          "item": "https://www.lemurianstudios.com/services/website-design-louisville-ky"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can my site cover customers in Kentucky and Indiana?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Your service-area section can name Louisville, Jeffersonville, New Albany and anywhere else you go, with Indiana and Kentucky details kept separate where they differ."
+          }
+        }
+      ]
+    }
+  ]
+}

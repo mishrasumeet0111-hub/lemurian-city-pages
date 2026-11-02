@@ -1,0 +1,116 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-buffalo-ny#service",
+      "name": "Website design in Buffalo, NY",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-buffalo-ny",
+      "description": "Website design in Buffalo, NY for businesses across the Buffalo metro: custom sites, brand identity and 3D animation from a remote studio.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Buffalo, New York",
+          "sameAs": "https://www.wikidata.org/wiki/Q40435"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Erie County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Niagara County, New York"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Buffalo businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in New York",
+          "item": "https://www.lemurianstudios.com/services/web-design-new-york"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Buffalo, NY",
+          "item": "https://www.lemurianstudios.com/services/website-design-buffalo-ny"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Should my site show prices in Canadian dollars?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "If Canadian customers are a real share of your business, a note on currency and cross-border shipping helps. Online stores can show both currencies; service businesses usually need only a clear note."
+          }
+        }
+      ]
+    }
+  ]
+}

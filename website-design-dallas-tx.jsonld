@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-dallas-tx#service",
+      "name": "Website design in Dallas, TX",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-dallas-tx",
+      "description": "Need a website designer in Dallas? Custom websites, branding and 3D animation for businesses across the Dallas metro.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Dallas, Texas",
+          "sameAs": "https://www.wikidata.org/wiki/Q16557"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Dallas County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Tarrant County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Collin County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Denton County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Ellis County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Johnson County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kaufman County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Parker County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Rockwall County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Hunt County, Texas"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Dallas businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Texas",
+          "item": "https://www.lemurianstudios.com/services/web-design-texas"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Dallas, TX",
+          "item": "https://www.lemurianstudios.com/services/website-design-dallas-tx"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you work with Fort Worth businesses too?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Tarrant County and the rest of the 11-county metro work the same way for us as Dallas: remote, with video calls in Central Time."
+          }
+        }
+      ]
+    }
+  ]
+}

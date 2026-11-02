@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-cincinnati-oh#service",
+      "name": "Website design in Cincinnati, OH",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-cincinnati-oh",
+      "description": "Website designers for Cincinnati, Ohio businesses. We design and build custom sites, brands and 3D animation remotely, on Eastern Time.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Cincinnati, Ohio",
+          "sameAs": "https://www.wikidata.org/wiki/Q43196"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Hamilton County, Ohio"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Butler County, Ohio"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Warren County, Ohio"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Clermont County, Ohio"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kenton County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Boone County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Campbell County, Kentucky"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Dearborn County, Indiana"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Brown County, Ohio"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Grant County, Kentucky"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Cincinnati businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Ohio",
+          "item": "https://www.lemurianstudios.com/services/web-design-ohio"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Cincinnati, OH",
+          "item": "https://www.lemurianstudios.com/services/website-design-cincinnati-oh"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can my site cover customers in Northern Kentucky?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We name Covington, Florence and Newport alongside Cincinnati where they belong, with Kentucky details kept separate where they differ."
+          }
+        }
+      ]
+    }
+  ]
+}

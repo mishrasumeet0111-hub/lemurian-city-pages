@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-fort-worth-tx#service",
+      "name": "Website design in Fort Worth, TX",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-fort-worth-tx",
+      "description": "Website design in Fort Worth, TX for businesses across the Dallas-Fort Worth metro: custom sites, brand identity and 3D animation from a remote studio.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Fort Worth, Texas",
+          "sameAs": "https://www.wikidata.org/wiki/Q16558"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Dallas County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Tarrant County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Collin County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Denton County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Ellis County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Johnson County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kaufman County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Parker County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Rockwall County, Texas"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Hunt County, Texas"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Fort Worth businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Texas",
+          "item": "https://www.lemurianstudios.com/services/web-design-texas"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Fort Worth, TX",
+          "item": "https://www.lemurianstudios.com/services/website-design-fort-worth-tx"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Should my site mention Dallas at all?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Only where it is true, for example if you serve the whole metroplex. Lead with Fort Worth and Tarrant County, because that is where your customers look first."
+          }
+        }
+      ]
+    }
+  ]
+}

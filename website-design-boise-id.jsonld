@@ -1,0 +1,128 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-boise-id#service",
+      "name": "Website design in Boise, ID",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-boise-id",
+      "description": "Website designers for Boise, Idaho businesses. We design and build custom sites, brands and 3D animation remotely, on Mountain Time.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Boise, Idaho",
+          "sameAs": "https://www.wikidata.org/wiki/Q35775"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Ada County, Idaho"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Canyon County, Idaho"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Gem County, Idaho"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Owyhee County, Idaho"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Boise County, Idaho"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Boise businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Idaho",
+          "item": "https://www.lemurianstudios.com/services/web-design-idaho"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Boise, ID",
+          "item": "https://www.lemurianstudios.com/services/website-design-boise-id"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can my site show a map of the area I cover?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We can add an embedded map or a simple service-area graphic, plus the list of towns, so customers can see at a glance whether you reach them."
+          }
+        }
+      ]
+    }
+  ]
+}

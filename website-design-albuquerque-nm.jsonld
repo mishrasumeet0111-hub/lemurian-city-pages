@@ -1,0 +1,124 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-albuquerque-nm#service",
+      "name": "Website design in Albuquerque, NM",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-albuquerque-nm",
+      "description": "Website designers for Albuquerque, New Mexico businesses. We design and build custom sites, brands and 3D animation remotely, on Mountain Time.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Albuquerque, New Mexico",
+          "sameAs": "https://www.wikidata.org/wiki/Q34804"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bernalillo County, New Mexico"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Sandoval County, New Mexico"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Valencia County, New Mexico"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Torrance County, New Mexico"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Albuquerque businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in New Mexico",
+          "item": "https://www.lemurianstudios.com/services/web-design-new-mexico"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Albuquerque, NM",
+          "item": "https://www.lemurianstudios.com/services/website-design-albuquerque-nm"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is a translation widget good enough for a Spanish version?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Usually not. Search engines cannot index most widgets, and the translations can read badly. Real Spanish pages, approved by someone who speaks to your customers, work better."
+          }
+        }
+      ]
+    }
+  ]
+}

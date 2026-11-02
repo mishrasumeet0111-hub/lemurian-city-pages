@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-newark-nj#service",
+      "name": "Website design in Newark, NJ",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-newark-nj",
+      "description": "Website design in Newark, NJ for businesses across the New York-Newark metro: custom sites, brand identity and 3D animation from a remote studio.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Newark, New Jersey",
+          "sameAs": "https://www.wikidata.org/wiki/Q25395"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Kings County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Queens County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "New York County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Suffolk County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Nassau County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bronx County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Westchester County, New York"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bergen County, New Jersey"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Middlesex County, New Jersey"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Essex County, New Jersey"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Newark businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in New Jersey",
+          "item": "https://www.lemurianstudios.com/services/web-design-new-jersey"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Newark, NJ",
+          "item": "https://www.lemurianstudios.com/services/website-design-newark-nj"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Can you build a site in English and Portuguese or Spanish?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We set up separate language versions with proper language tags. You or a translator you trust approves the copy, so it reads naturally to your customers."
+          }
+        }
+      ]
+    }
+  ]
+}

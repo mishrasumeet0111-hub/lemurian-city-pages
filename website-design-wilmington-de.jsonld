@@ -1,0 +1,148 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-wilmington-de#service",
+      "name": "Website design in Wilmington, DE",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-wilmington-de",
+      "description": "Need a website designer in Wilmington? Custom websites, branding and 3D animation for businesses across the Philadelphia-Wilmington metro.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Wilmington, Delaware",
+          "sameAs": "https://www.wikidata.org/wiki/Q174224"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Philadelphia County, Pennsylvania"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Montgomery County, Pennsylvania"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Bucks County, Pennsylvania"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "New Castle County, Delaware"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Delaware County, Pennsylvania"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Chester County, Pennsylvania"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Camden County, New Jersey"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Burlington County, New Jersey"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Gloucester County, New Jersey"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Cecil County, Maryland"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Wilmington businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in Delaware",
+          "item": "https://www.lemurianstudios.com/services/web-design-delaware"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Wilmington, DE",
+          "item": "https://www.lemurianstudios.com/services/website-design-wilmington-de"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "My business is in Wilmington but many clients are in Philadelphia. How should the site handle that?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Lead with where you are, then say clearly which areas you serve. A service-area section that names Philadelphia and the nearby counties is honest and helps people find you."
+          }
+        }
+      ]
+    }
+  ]
+}

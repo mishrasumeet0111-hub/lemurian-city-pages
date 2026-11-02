@@ -1,0 +1,120 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Service",
+      "@id": "https://www.lemurianstudios.com/services/website-design-charleston-sc#service",
+      "name": "Website design in Charleston, SC",
+      "serviceType": "Web design",
+      "url": "https://www.lemurianstudios.com/services/website-design-charleston-sc",
+      "description": "Need a website designer in Charleston? Custom websites, branding and 3D animation for businesses across the Charleston metro.",
+      "provider": {
+        "@type": "Organization",
+        "@id": "https://www.lemurianstudios.com/#organization",
+        "name": "Lemurian Studios",
+        "legalName": "Auxelerate LLC",
+        "url": "https://www.lemurianstudios.com",
+        "email": "sam@lemurianstudios.com"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "Charleston, South Carolina",
+          "sameAs": "https://www.wikidata.org/wiki/Q47716"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Charleston County, South Carolina"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Berkeley County, South Carolina"
+        },
+        {
+          "@type": "AdministrativeArea",
+          "name": "Dorchester County, South Carolina"
+        }
+      ],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Services for Charleston, SC businesses",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Website design",
+              "url": "https://www.lemurianstudios.com/services/web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Small business web design",
+              "url": "https://www.lemurianstudios.com/services/small-business-web-design"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Brand identity design",
+              "url": "https://www.lemurianstudios.com/services/brand-identity"
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "3D design and animation",
+              "url": "https://www.lemurianstudios.com/services/3d-design"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.lemurianstudios.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Web design",
+          "item": "https://www.lemurianstudios.com/services/web-design"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Web design in South Carolina",
+          "item": "https://www.lemurianstudios.com/services/web-design-south-carolina"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "Charleston, SC",
+          "item": "https://www.lemurianstudios.com/services/website-design-charleston-sc"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Do you work with businesses in Summerville and Mount Pleasant?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. We work across the metro, from downtown to Summerville, Mount Pleasant and Goose Creek, the same way: remotely, with shared previews at each step."
+          }
+        }
+      ]
+    }
+  ]
+}
