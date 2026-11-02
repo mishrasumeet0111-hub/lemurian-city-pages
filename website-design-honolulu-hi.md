@@ -57,5 +57,3 @@ Yes. We set booking tools to Hawaii time and show times clearly, so a customer b
 - [Website design in San Jose, CA](/services/website-design-san-jose-ca)
 - [Website design in Sacramento, CA](/services/website-design-sacramento-ca)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Honolulu project? [Get in touch](/contact) and tell us what the site needs to do.

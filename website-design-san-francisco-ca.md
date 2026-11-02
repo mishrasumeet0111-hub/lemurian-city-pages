@@ -57,5 +57,3 @@ Yes. We connect booking, forms and email so inquiries reach the right person wit
 - [Website design in Sacramento, CA](/services/website-design-sacramento-ca)
 - [Website design in Fresno, CA](/services/website-design-fresno-ca)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a San Francisco project? [Get in touch](/contact) and tell us what the site needs to do.

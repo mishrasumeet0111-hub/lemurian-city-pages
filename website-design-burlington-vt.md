@@ -59,5 +59,3 @@ Yes. People check a business online even after a friend recommends it. A clear s
 - [Website design in Portland, ME](/services/website-design-portland-me)
 - [Website design in Boston, MA](/services/website-design-boston-ma)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Burlington project? [Get in touch](/contact) and tell us what the site needs to do.

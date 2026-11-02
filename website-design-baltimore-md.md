@@ -57,5 +57,3 @@ Yes. We focus on what patients need first, services, insurance, location and boo
 - [Website design in Wilmington, DE](/services/website-design-wilmington-de)
 - [Website design in Philadelphia, PA](/services/website-design-philadelphia-pa)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Baltimore project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -57,5 +57,3 @@ We can make sure Norman is named clearly in your service area and contact detail
 - [Website design in Wichita, KS](/services/website-design-wichita-ks)
 - [Website design in Fort Worth, TX](/services/website-design-fort-worth-tx)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Oklahoma City project? [Get in touch](/contact) and tell us what the site needs to do.

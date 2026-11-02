@@ -59,5 +59,3 @@ Yes. We build in room for the disclosures and licensing details your compliance 
 - [Website design in Providence, RI](/services/website-design-providence-ri)
 - [Website design in Boston, MA](/services/website-design-boston-ma)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Hartford project? [Get in touch](/contact) and tell us what the site needs to do.

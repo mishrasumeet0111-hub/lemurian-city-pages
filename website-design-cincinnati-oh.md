@@ -59,5 +59,3 @@ Yes. We name Covington, Florence and Newport alongside Cincinnati where they bel
 - [Website design in Indianapolis, IN](/services/website-design-indianapolis-in)
 - [Website design in Columbus, OH](/services/website-design-columbus-oh)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Cincinnati project? [Get in touch](/contact) and tell us what the site needs to do.

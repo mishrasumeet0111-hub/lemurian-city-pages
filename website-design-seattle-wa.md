@@ -59,5 +59,3 @@ Yes. We work across King, Pierce and Snohomish County the same way, remotely and
 - [Website design in Boise, ID](/services/website-design-boise-id)
 - [Website design in Sacramento, CA](/services/website-design-sacramento-ca)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Seattle project? [Get in touch](/contact) and tell us what the site needs to do.

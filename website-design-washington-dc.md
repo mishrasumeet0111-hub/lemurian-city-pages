@@ -57,5 +57,3 @@ Yes. We build to WCAG 2.1 AA, which covers the WCAG 2.0 AA standard Section 508 
 - [Website design in Richmond, VA](/services/website-design-richmond-va)
 - [Website design in Wilmington, DE](/services/website-design-wilmington-de)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Washington project? [Get in touch](/contact) and tell us what the site needs to do.

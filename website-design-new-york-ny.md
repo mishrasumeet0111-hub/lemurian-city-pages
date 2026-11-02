@@ -59,5 +59,3 @@ Yes. The New Jersey counties in the metro, plus Nassau and Suffolk, work the sam
 - [Website design in Bridgeport, CT](/services/website-design-bridgeport-ct)
 - [Website design in Philadelphia, PA](/services/website-design-philadelphia-pa)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a NYC project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -59,5 +59,3 @@ Yes. Your service-area section can name Louisville, Jeffersonville, New Albany a
 - [Website design in Indianapolis, IN](/services/website-design-indianapolis-in)
 - [Website design in Nashville, TN](/services/website-design-nashville-tn)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Louisville project? [Get in touch](/contact) and tell us what the site needs to do.

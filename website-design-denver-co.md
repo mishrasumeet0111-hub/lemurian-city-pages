@@ -57,5 +57,3 @@ Your own photos work far better. We can tell you exactly which shots to get, and
 - [Website design in Albuquerque, NM](/services/website-design-albuquerque-nm)
 - [Website design in Salt Lake City, UT](/services/website-design-salt-lake-city-ut)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Denver project? [Get in touch](/contact) and tell us what the site needs to do.

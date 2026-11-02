@@ -59,5 +59,3 @@ Yes. A short site with good photos, clear words and a quick contact route looks 
 - [Website design in Cincinnati, OH](/services/website-design-cincinnati-oh)
 - [Website design in Pittsburgh, PA](/services/website-design-pittsburgh-pa)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Charleston, WV project? [Get in touch](/contact) and tell us what the site needs to do.

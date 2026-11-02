@@ -57,5 +57,3 @@ Yes. We can build a browsable catalog with specs and photos and an inquiry form,
 - [Website design in Chicago, IL](/services/website-design-chicago-il)
 - [Website design in Detroit, MI](/services/website-design-detroit-mi)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Grand Rapids project? [Get in touch](/contact) and tell us what the site needs to do.

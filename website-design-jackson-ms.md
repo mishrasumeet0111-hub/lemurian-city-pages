@@ -57,5 +57,3 @@ Yes. We link the two and can show recent posts or reviews on the site, but the s
 - [Website design in Memphis, TN](/services/website-design-memphis-tn)
 - [Website design in Little Rock, AR](/services/website-design-little-rock-ar)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Jackson project? [Get in touch](/contact) and tell us what the site needs to do.

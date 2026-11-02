@@ -59,5 +59,3 @@ Yes. We set booking and calendar tools to Arizona time, which does not change wi
 - [Website design in Tucson, AZ](/services/website-design-tucson-az)
 - [Website design in Las Vegas, NV](/services/website-design-las-vegas-nv)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Phoenix project? [Get in touch](/contact) and tell us what the site needs to do.

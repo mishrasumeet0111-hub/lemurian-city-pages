@@ -57,5 +57,3 @@ Yes. We can name Fort Collins and the other places you serve across the line, wi
 - [Website design in Salt Lake City, UT](/services/website-design-salt-lake-city-ut)
 - [Website design in Billings, MT](/services/website-design-billings-mt)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Cheyenne project? [Get in touch](/contact) and tell us what the site needs to do.

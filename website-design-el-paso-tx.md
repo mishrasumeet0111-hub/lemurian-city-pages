@@ -59,5 +59,3 @@ Yes. We book calls in your local time, and we know El Paso is an hour behind mos
 - [Website design in Tucson, AZ](/services/website-design-tucson-az)
 - [Website design in Mesa, AZ](/services/website-design-mesa-az)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a El Paso project? [Get in touch](/contact) and tell us what the site needs to do.

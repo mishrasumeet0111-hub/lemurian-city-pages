@@ -59,5 +59,3 @@ Lead with your neighborhood, then name the wider area you serve, Allegheny Count
 - [Website design in Columbus, OH](/services/website-design-columbus-oh)
 - [Website design in Charleston, WV](/services/website-design-charleston-wv)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Pittsburgh project? [Get in touch](/contact) and tell us what the site needs to do.

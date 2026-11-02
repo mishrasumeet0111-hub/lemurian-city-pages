@@ -59,5 +59,3 @@ Yes. We design phone-first, keep pages fast on campus Wi-Fi and mobile data, and
 - [Website design in Cleveland, OH](/services/website-design-cleveland-oh)
 - [Website design in Charleston, WV](/services/website-design-charleston-wv)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Columbus project? [Get in touch](/contact) and tell us what the site needs to do.

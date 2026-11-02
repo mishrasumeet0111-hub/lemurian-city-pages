@@ -57,5 +57,3 @@ Yes. We can lay out your NAICS codes, certifications and past performance the wa
 - [Website design in Nashville, TN](/services/website-design-nashville-tn)
 - [Website design in Atlanta, GA](/services/website-design-atlanta-ga)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Huntsville project? [Get in touch](/contact) and tell us what the site needs to do.

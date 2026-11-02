@@ -59,5 +59,3 @@ Yes. Clark County, Washington is part of the Portland metro, and we can name it 
 - [Website design in Boise, ID](/services/website-design-boise-id)
 - [Website design in Sacramento, CA](/services/website-design-sacramento-ca)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Portland, OR project? [Get in touch](/contact) and tell us what the site needs to do.

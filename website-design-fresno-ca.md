@@ -59,5 +59,3 @@ Yes. We build catalog and service pages around how buyers order: product specs, 
 - [Website design in Sacramento, CA](/services/website-design-sacramento-ca)
 - [Website design in San Francisco, CA](/services/website-design-san-francisco-ca)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Fresno project? [Get in touch](/contact) and tell us what the site needs to do.

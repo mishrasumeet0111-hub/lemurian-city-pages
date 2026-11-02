@@ -59,5 +59,3 @@ Yes. We start with the questions patients or clients ask most and build the page
 - [Website design in Atlanta, GA](/services/website-design-atlanta-ga)
 - [Website design in Nashville, TN](/services/website-design-nashville-tn)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Birmingham project? [Get in touch](/contact) and tell us what the site needs to do.

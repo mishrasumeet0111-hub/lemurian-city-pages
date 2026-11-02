@@ -59,5 +59,3 @@ We can build the pages and service-area wording that make your coverage clear. T
 - [Website design in San Antonio, TX](/services/website-design-san-antonio-tx)
 - [Website design in Dallas, TX](/services/website-design-dallas-tx)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Houston project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -57,5 +57,3 @@ Yes, with separate paths. We can give locals offers and memberships, and visitor
 - [Website design in Los Angeles, CA](/services/website-design-los-angeles-ca)
 - [Website design in Phoenix, AZ](/services/website-design-phoenix-az)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Las Vegas project? [Get in touch](/contact) and tell us what the site needs to do.

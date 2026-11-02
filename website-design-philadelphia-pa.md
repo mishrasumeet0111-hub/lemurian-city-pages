@@ -59,5 +59,3 @@ Yes. Camden, Burlington and Gloucester County, New Jersey are in the Philadelphi
 - [Website design in Newark, NJ](/services/website-design-newark-nj)
 - [Website design in New York City, NY](/services/website-design-new-york-ny)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Philadelphia project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -59,5 +59,3 @@ Yes. Lehi and Provo are in a separate metro, but we work anywhere in Utah the sa
 - [Website design in Las Vegas, NV](/services/website-design-las-vegas-nv)
 - [Website design in Denver, CO](/services/website-design-denver-co)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Salt Lake City project? [Get in touch](/contact) and tell us what the site needs to do.

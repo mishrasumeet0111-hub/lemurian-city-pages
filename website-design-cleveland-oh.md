@@ -57,5 +57,3 @@ Yes. We focus on clear service descriptions, credentials and a simple way to boo
 - [Website design in Pittsburgh, PA](/services/website-design-pittsburgh-pa)
 - [Website design in Columbus, OH](/services/website-design-columbus-oh)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Cleveland project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -59,5 +59,3 @@ Yes. We work from your specs and your best explanation, then structure the page 
 - [Website design in Pittsburgh, PA](/services/website-design-pittsburgh-pa)
 - [Website design in Burlington, VT](/services/website-design-burlington-vt)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Rochester project? [Get in touch](/contact) and tell us what the site needs to do.

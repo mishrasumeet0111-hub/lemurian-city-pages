@@ -59,5 +59,3 @@ Yes. They are in Lincoln County, part of the metro, and we work with businesses 
 - [Website design in Minneapolis, MN](/services/website-design-minneapolis-mn)
 - [Website design in Des Moines, IA](/services/website-design-des-moines-ia)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Sioux Falls project? [Get in touch](/contact) and tell us what the site needs to do.

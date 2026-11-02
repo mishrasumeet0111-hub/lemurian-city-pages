@@ -59,5 +59,3 @@ Say which side you are on in your address and contact section, and use "Kansas C
 - [Website design in Wichita, KS](/services/website-design-wichita-ks)
 - [Website design in Des Moines, IA](/services/website-design-des-moines-ia)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Kansas City project? [Get in touch](/contact) and tell us what the site needs to do.

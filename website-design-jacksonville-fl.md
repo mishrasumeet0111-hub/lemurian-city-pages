@@ -57,5 +57,3 @@ Yes. We build a service-area section that names the counties and towns you actua
 - [Website design in Tampa, FL](/services/website-design-tampa-fl)
 - [Website design in Charleston, SC](/services/website-design-charleston-sc)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Jacksonville project? [Get in touch](/contact) and tell us what the site needs to do.

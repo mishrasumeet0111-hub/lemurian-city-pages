@@ -57,5 +57,3 @@ Both. Lead with your city, since that is where customers check whether you are c
 - [Website design in Washington, DC](/services/website-design-washington-dc)
 - [Website design in Raleigh, NC](/services/website-design-raleigh-nc)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Virginia Beach project? [Get in touch](/contact) and tell us what the site needs to do.

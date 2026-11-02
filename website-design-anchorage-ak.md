@@ -57,5 +57,3 @@ Yes. We book calls in your time zone, and most of the work happens in shared pre
 - [Website design in Portland, OR](/services/website-design-portland-or)
 - [Website design in Boise, ID](/services/website-design-boise-id)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Anchorage project? [Get in touch](/contact) and tell us what the site needs to do.

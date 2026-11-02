@@ -57,5 +57,3 @@ Yes. Osceola County is part of the Orlando metro and is served exactly like ever
 - [Website design in Jacksonville, FL](/services/website-design-jacksonville-fl)
 - [Website design in Miami, FL](/services/website-design-miami-fl)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Orlando project? [Get in touch](/contact) and tell us what the site needs to do.

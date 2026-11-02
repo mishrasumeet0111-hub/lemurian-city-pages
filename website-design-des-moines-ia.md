@@ -57,5 +57,3 @@ Yes. We set up team members as a collection with roles, licenses and short bios,
 - [Website design in Kansas City, MO](/services/website-design-kansas-city-mo)
 - [Website design in Sioux Falls, SD](/services/website-design-sioux-falls-sd)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Des Moines project? [Get in touch](/contact) and tell us what the site needs to do.

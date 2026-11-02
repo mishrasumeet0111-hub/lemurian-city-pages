@@ -57,5 +57,3 @@ Yes. We can set up a main site for Little Rock with clear pages for the regions 
 - [Website design in Jackson, MS](/services/website-design-jackson-ms)
 - [Website design in Tulsa, OK](/services/website-design-tulsa-ok)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Little Rock project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -59,5 +59,3 @@ Yes. We work across the metro, from downtown to Summerville, Mount Pleasant and 
 - [Website design in Jacksonville, FL](/services/website-design-jacksonville-fl)
 - [Website design in Raleigh, NC](/services/website-design-raleigh-nc)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Charleston, SC project? [Get in touch](/contact) and tell us what the site needs to do.

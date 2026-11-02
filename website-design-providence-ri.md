@@ -57,5 +57,3 @@ Yes. We build menus as a collection in Framer, so changing a dish or a price is 
 - [Website design in Hartford, CT](/services/website-design-hartford-ct)
 - [Website design in Manchester, NH](/services/website-design-manchester-nh)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Providence project? [Get in touch](/contact) and tell us what the site needs to do.

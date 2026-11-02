@@ -59,5 +59,3 @@ Yes. We make sure the details that matter to people relocating, location, hours,
 - [Website design in Houston, TX](/services/website-design-houston-tx)
 - [Website design in Fort Worth, TX](/services/website-design-fort-worth-tx)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a San Antonio project? [Get in touch](/contact) and tell us what the site needs to do.

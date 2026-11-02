@@ -57,5 +57,3 @@ Only if you have something different to say about each, such as different locati
 - [Website design in Jacksonville, FL](/services/website-design-jacksonville-fl)
 - [Website design in Miami, FL](/services/website-design-miami-fl)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Tampa project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -57,5 +57,3 @@ Lead with Mesa and the East Valley cities you serve. Mention Phoenix where it is
 - [Website design in Tucson, AZ](/services/website-design-tucson-az)
 - [Website design in Las Vegas, NV](/services/website-design-las-vegas-nv)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Mesa project? [Get in touch](/contact) and tell us what the site needs to do.

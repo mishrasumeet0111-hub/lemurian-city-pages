@@ -57,5 +57,3 @@ Yes. We set up specials and announcements as simple fields or a small collection
 - [Website design in Louisville, KY](/services/website-design-louisville-ky)
 - [Website design in Chicago, IL](/services/website-design-chicago-il)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Indianapolis project? [Get in touch](/contact) and tell us what the site needs to do.

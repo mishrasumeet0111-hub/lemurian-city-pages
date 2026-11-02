@@ -59,5 +59,3 @@ Yes. Clay County, Minnesota is part of the Fargo metro, and we work with busines
 - [Website design in Sioux Falls, SD](/services/website-design-sioux-falls-sd)
 - [Website design in Omaha, NE](/services/website-design-omaha-ne)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Fargo project? [Get in touch](/contact) and tell us what the site needs to do.

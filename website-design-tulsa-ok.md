@@ -57,5 +57,3 @@ Keep it short: what you offer, who it is for, proof that you are real, and how t
 - [Website design in Wichita, KS](/services/website-design-wichita-ks)
 - [Website design in Kansas City, MO](/services/website-design-kansas-city-mo)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Tulsa project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -57,5 +57,3 @@ Yes. We build in Framer and hand over a site your team can edit: text, images, b
 - [Website design in Houston, TX](/services/website-design-houston-tx)
 - [Website design in Fort Worth, TX](/services/website-design-fort-worth-tx)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Austin project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -59,5 +59,3 @@ Yes. We name Southaven, Olive Branch and Horn Lake alongside Memphis where they 
 - [Website design in Jackson, MS](/services/website-design-jackson-ms)
 - [Website design in Nashville, TN](/services/website-design-nashville-tn)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Memphis project? [Get in touch](/contact) and tell us what the site needs to do.

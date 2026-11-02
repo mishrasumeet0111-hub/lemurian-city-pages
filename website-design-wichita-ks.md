@@ -59,5 +59,3 @@ Yes. We lay out processes, equipment, certifications and industries served in a 
 - [Website design in Oklahoma City, OK](/services/website-design-oklahoma-city-ok)
 - [Website design in Kansas City, MO](/services/website-design-kansas-city-mo)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Wichita project? [Get in touch](/contact) and tell us what the site needs to do.

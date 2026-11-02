@@ -59,5 +59,3 @@ If Canadian customers are a real share of your business, a note on currency and 
 - [Website design in Cleveland, OH](/services/website-design-cleveland-oh)
 - [Website design in Pittsburgh, PA](/services/website-design-pittsburgh-pa)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Buffalo project? [Get in touch](/contact) and tell us what the site needs to do.

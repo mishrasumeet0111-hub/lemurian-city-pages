@@ -59,5 +59,3 @@ Yes. We can ship a focused first version, a strong home page and the few pages y
 - [Website design in Sacramento, CA](/services/website-design-sacramento-ca)
 - [Website design in Fresno, CA](/services/website-design-fresno-ca)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a San Jose project? [Get in touch](/contact) and tell us what the site needs to do.

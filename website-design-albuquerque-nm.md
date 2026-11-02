@@ -59,5 +59,3 @@ Usually not. Search engines cannot index most widgets, and the translations can 
 - [Website design in Mesa, AZ](/services/website-design-mesa-az)
 - [Website design in Tucson, AZ](/services/website-design-tucson-az)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Albuquerque project? [Get in touch](/contact) and tell us what the site needs to do.

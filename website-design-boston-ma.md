@@ -59,5 +59,3 @@ Lead with Cambridge, because that is where your customers will look for you. Men
 - [Website design in Manchester, NH](/services/website-design-manchester-nh)
 - [Website design in Hartford, CT](/services/website-design-hartford-ct)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Boston project? [Get in touch](/contact) and tell us what the site needs to do.

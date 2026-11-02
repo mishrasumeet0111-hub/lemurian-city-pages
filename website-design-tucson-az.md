@@ -57,5 +57,3 @@ Yes. Everything that changes with the season goes in fields you can edit in Fram
 - [Website design in Phoenix, AZ](/services/website-design-phoenix-az)
 - [Website design in El Paso, TX](/services/website-design-el-paso-tx)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Tucson project? [Get in touch](/contact) and tell us what the site needs to do.

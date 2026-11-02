@@ -57,5 +57,3 @@ Yes. We set up events, shows or classes as a CMS collection in Framer, so adding
 - [Website design in Louisville, KY](/services/website-design-louisville-ky)
 - [Website design in Birmingham, AL](/services/website-design-birmingham-al)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Nashville project? [Get in touch](/contact) and tell us what the site needs to do.

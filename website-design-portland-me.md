@@ -59,5 +59,3 @@ Yes. We connect the booking or reservation tool you already use, or help you pic
 - [Website design in Boston, MA](/services/website-design-boston-ma)
 - [Website design in Providence, RI](/services/website-design-providence-ri)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Portland, ME project? [Get in touch](/contact) and tell us what the site needs to do.

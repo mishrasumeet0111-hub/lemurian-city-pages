@@ -57,5 +57,3 @@ Lead with where you are, then say clearly which areas you serve. A service-area 
 - [Website design in Baltimore, MD](/services/website-design-baltimore-md)
 - [Website design in Washington, DC](/services/website-design-washington-dc)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Wilmington project? [Get in touch](/contact) and tell us what the site needs to do.

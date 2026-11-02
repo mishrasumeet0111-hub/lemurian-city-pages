@@ -59,5 +59,3 @@ If a real share of your customers prefer Spanish, yes, with properly translated 
 - [Website design in Los Angeles, CA](/services/website-design-los-angeles-ca)
 - [Website design in Las Vegas, NV](/services/website-design-las-vegas-nv)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a San Diego project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -59,5 +59,3 @@ Yes. Pottawattamie County, Iowa is part of the metro, and we work with businesse
 - [Website design in Sioux Falls, SD](/services/website-design-sioux-falls-sd)
 - [Website design in Kansas City, MO](/services/website-design-kansas-city-mo)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Omaha project? [Get in touch](/contact) and tell us what the site needs to do.

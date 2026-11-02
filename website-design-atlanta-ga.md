@@ -57,5 +57,3 @@ Yes. We work remotely, so Cobb, Gwinnett, Cherokee or Henry County is no differe
 - [Website design in Huntsville, AL](/services/website-design-huntsville-al)
 - [Website design in Nashville, TN](/services/website-design-nashville-tn)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Atlanta project? [Get in touch](/contact) and tell us what the site needs to do.

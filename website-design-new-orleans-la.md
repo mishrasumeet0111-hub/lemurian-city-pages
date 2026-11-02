@@ -57,5 +57,3 @@ Parish. That is what Louisiana uses and what local customers expect, so we write
 - [Website design in Birmingham, AL](/services/website-design-birmingham-al)
 - [Website design in Houston, TX](/services/website-design-houston-tx)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a New Orleans project? [Get in touch](/contact) and tell us what the site needs to do.

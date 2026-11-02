@@ -57,5 +57,3 @@ Only where you have something different to say, such as a location, a team or a 
 - [Website design in San Diego, CA](/services/website-design-san-diego-ca)
 - [Website design in Las Vegas, NV](/services/website-design-las-vegas-nv)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Riverside project? [Get in touch](/contact) and tell us what the site needs to do.

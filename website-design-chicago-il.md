@@ -57,5 +57,3 @@ Both, in different places. Use your neighborhood where customers decide whether 
 - [Website design in Grand Rapids, MI](/services/website-design-grand-rapids-mi)
 - [Website design in Indianapolis, IN](/services/website-design-indianapolis-in)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Chicago project? [Get in touch](/contact) and tell us what the site needs to do.

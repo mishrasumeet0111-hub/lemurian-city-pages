@@ -59,5 +59,3 @@ Yes. St. Croix County, Wisconsin is part of the metro. We can name it, along wit
 - [Website design in Fargo, ND](/services/website-design-fargo-nd)
 - [Website design in Des Moines, IA](/services/website-design-des-moines-ia)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Minneapolis project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -57,5 +57,3 @@ Yes. We can add an embedded map or a simple service-area graphic, plus the list 
 - [Website design in Portland, OR](/services/website-design-portland-or)
 - [Website design in Seattle, WA](/services/website-design-seattle-wa)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Boise project? [Get in touch](/contact) and tell us what the site needs to do.

@@ -59,5 +59,3 @@ Yes. Tarrant County and the rest of the 11-county metro work the same way for us
 - [Website design in Austin, TX](/services/website-design-austin-tx)
 - [Website design in Oklahoma City, OK](/services/website-design-oklahoma-city-ok)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Dallas project? [Get in touch](/contact) and tell us what the site needs to do.

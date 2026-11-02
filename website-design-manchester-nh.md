@@ -59,5 +59,3 @@ If they are a real share of your business, yes. Say plainly that you serve them 
 - [Website design in Portland, ME](/services/website-design-portland-me)
 - [Website design in Providence, RI](/services/website-design-providence-ri)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Manchester project? [Get in touch](/contact) and tell us what the site needs to do.

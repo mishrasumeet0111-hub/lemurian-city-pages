@@ -57,5 +57,3 @@ Yes. Madison and St. Clair County, Illinois are part of the metro, and we work w
 - [Website design in Kansas City, MO](/services/website-design-kansas-city-mo)
 - [Website design in Memphis, TN](/services/website-design-memphis-tn)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a St. Louis project? [Get in touch](/contact) and tell us what the site needs to do.

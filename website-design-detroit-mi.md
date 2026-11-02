@@ -59,5 +59,3 @@ Yes. Put it in the first screen and the contact section. Locals use neighborhood
 - [Website design in Grand Rapids, MI](/services/website-design-grand-rapids-mi)
 - [Website design in Columbus, OH](/services/website-design-columbus-oh)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Detroit project? [Get in touch](/contact) and tell us what the site needs to do.

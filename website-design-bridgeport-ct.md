@@ -57,5 +57,3 @@ Yes. Most people still call the area Fairfield County, even though federal stati
 - [Website design in New York City, NY](/services/website-design-new-york-ny)
 - [Website design in Newark, NJ](/services/website-design-newark-nj)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Bridgeport project? [Get in touch](/contact) and tell us what the site needs to do.

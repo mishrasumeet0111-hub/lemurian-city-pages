@@ -57,5 +57,3 @@ Yes. We name both states and the places you serve in your service-area section, 
 - [Website design in Charleston, SC](/services/website-design-charleston-sc)
 - [Website design in Charleston, WV](/services/website-design-charleston-wv)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Charlotte project? [Get in touch](/contact) and tell us what the site needs to do.

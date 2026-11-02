@@ -57,5 +57,3 @@ Use both. Lead with Raleigh or your own town, then say you serve the Triangle if
 - [Website design in Richmond, VA](/services/website-design-richmond-va)
 - [Website design in Virginia Beach, VA](/services/website-design-virginia-beach-va)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Raleigh project? [Get in touch](/contact) and tell us what the site needs to do.

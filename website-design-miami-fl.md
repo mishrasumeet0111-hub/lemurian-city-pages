@@ -57,5 +57,3 @@ Yes. Framer supports separate language versions of each page. We set up the stru
 - [Website design in Tampa, FL](/services/website-design-tampa-fl)
 - [Website design in Jacksonville, FL](/services/website-design-jacksonville-fl)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Miami project? [Get in touch](/contact) and tell us what the site needs to do.

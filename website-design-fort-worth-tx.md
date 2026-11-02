@@ -59,5 +59,3 @@ Only where it is true, for example if you serve the whole metroplex. Lead with F
 - [Website design in Austin, TX](/services/website-design-austin-tx)
 - [Website design in Oklahoma City, OK](/services/website-design-oklahoma-city-ok)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Fort Worth project? [Get in touch](/contact) and tell us what the site needs to do.

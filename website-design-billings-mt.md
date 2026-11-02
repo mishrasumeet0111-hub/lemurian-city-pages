@@ -59,5 +59,3 @@ Yes. We can add a simple product list you update yourself, or connect a store, s
 - [Website design in Salt Lake City, UT](/services/website-design-salt-lake-city-ut)
 - [Website design in Boise, ID](/services/website-design-boise-id)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Billings project? [Get in touch](/contact) and tell us what the site needs to do.

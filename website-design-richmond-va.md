@@ -57,5 +57,3 @@ Yes. They are the two most populated parts of the metro, and we work with busine
 - [Website design in Washington, DC](/services/website-design-washington-dc)
 - [Website design in Baltimore, MD](/services/website-design-baltimore-md)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Richmond project? [Get in touch](/contact) and tell us what the site needs to do.

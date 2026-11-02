@@ -57,5 +57,3 @@ Yes, and that is a good use of the medium. We build video and motion into the de
 - [Website design in San Diego, CA](/services/website-design-san-diego-ca)
 - [Website design in Fresno, CA](/services/website-design-fresno-ca)
 - [Web design nationwide](/services/web-design-nationwide)
-
-Ready to talk about a Los Angeles project? [Get in touch](/contact) and tell us what the site needs to do.
